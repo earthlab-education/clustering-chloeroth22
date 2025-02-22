@@ -1,7 +1,7 @@
 ### SITE DESCRIPTION
 Map of site
 
-For this assignment we downloaded the Water Boundary Dataset for region 8 located in Mississippi (specifically watershed 080902030506). This watershed covers part of New Orleans and is near the Mississippi Delta. This is a good area to practice land classication since deltas are provide a diverse spread of land cover. The Mississippi Delta inclues uplands, the Gulf of Mexico, forests, mash, beaches, and urban areas. 
+For this assignment we downloaded the Water Boundary Dataset for region 8 located in Mississippi (specifically watershed 080902030506). This watershed covers part of New Orleans and is near the Mississippi Delta. This is a good area to practice land classication since deltas are provide a diverse spread of land cover. The Mississippi Delta inclues uplands, the Gulf of Mexico, forests, mash, beaches, and urban areas. Please note that I was unable to figure out how to load in satilite imagrey under my watershed boundary so I used Open Street Map (OSM)
 
 National Wildlife Federation. (n.d.). Mississippi River Delta. National Wildlife Federation. https://www.nwf.org/Educational-Resources/Wildlife-Guide/Wild-Places/Mississippi-River-Delta
 
